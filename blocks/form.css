@@ -18,6 +18,11 @@
 }
 
 .form__input {
+  font-family: "Inter", "Arial", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
   display: block;
   width: 100%;
   padding: 15px 20px;
@@ -27,7 +32,7 @@
   border-radius: 4px;
 }
 
-.input::placeholder {
+.form__input::placeholder {
   font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: normal;
