@@ -13,4 +13,8 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+### Things I'd love to add:
+
+- Food images in the menu section
+- A "meet our chef" section
+- Images of the seating area and surrounding areas in the reservation section
