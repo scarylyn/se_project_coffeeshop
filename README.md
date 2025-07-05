@@ -13,7 +13,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-### Things I'd love to add:
+#### Things I'd love to add:
 
 - Food images in the menu section
 - A "meet our chef" section
